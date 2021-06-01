@@ -1,0 +1,17 @@
+.nome-personalizado{
+    color: red;
+}
+
+.Foto{
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}
+
+.nome{
+    font-size: 2rem;
+}
+
+.texto{
+    font-size: 1.2rem;
+}
